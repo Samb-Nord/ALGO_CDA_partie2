@@ -1,0 +1,11 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\bin\Debug\netcoreapp2.1\anneeBisextileOrNot.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\bin\Debug\netcoreapp2.1\anneeBisextileOrNot.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\bin\Debug\netcoreapp2.1\anneeBisextileOrNot.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\bin\Debug\netcoreapp2.1\anneeBisextileOrNot.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\bin\Debug\netcoreapp2.1\anneeBisextileOrNot.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.genruntimeconfig.cache
