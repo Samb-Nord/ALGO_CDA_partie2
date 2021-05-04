@@ -6,7 +6,19 @@ namespace exoValeurAbsolue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Entrez un nombre");
+            double number = Double.Parse(Console.ReadLine());
+
+            Console.WriteLine("La valeur absolue est : " + valeurAbsolue(number));
+        }
+
+        public static double valeurAbsolue(double nombre)
+        {
+
+            double valeurAbs = Math.Abs(nombre);
+
+            return valeurAbs;
+
         }
     }
 }
