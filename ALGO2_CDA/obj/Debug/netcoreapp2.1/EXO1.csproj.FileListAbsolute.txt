@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\bin\Debug\netcoreapp2.1\EXO1.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\bin\Debug\netcoreapp2.1\EXO1.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\bin\Debug\netcoreapp2.1\EXO1.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\bin\Debug\netcoreapp2.1\EXO1.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\bin\Debug\netcoreapp2.1\EXO1.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\ALGO2_CDA\obj\Debug\netcoreapp2.1\EXO1.genruntimeconfig.cache
