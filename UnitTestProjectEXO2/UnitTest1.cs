@@ -20,8 +20,7 @@ namespace UnitTestProjectEXO2
             list.Add(44);
             list.Add(-12);
             CollectionAssert.AreEqual(Trier.Tri2(ref list), list);
-           
-            //CollectionAssert.AreNotEqual(newList, list);
+          
         }
 
 
