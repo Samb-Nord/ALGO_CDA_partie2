@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\bin\Debug\netcoreapp2.1\exoValeurAbsolue.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\bin\Debug\netcoreapp2.1\exoValeurAbsolue.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\bin\Debug\netcoreapp2.1\exoValeurAbsolue.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\bin\Debug\netcoreapp2.1\exoValeurAbsolue.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\bin\Debug\netcoreapp2.1\exoValeurAbsolue.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\exoValeurAbsolue\obj\Debug\netcoreapp2.1\exoValeurAbsolue.genruntimeconfig.cache

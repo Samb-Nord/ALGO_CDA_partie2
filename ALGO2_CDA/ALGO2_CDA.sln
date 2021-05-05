@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXO1", "EXO1.csproj", "{56A910C8-3489-4788-AF65-B8A1D5A8A21F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXO1", "EXO1.csproj", "{56A910C8-3489-4788-AF65-B8A1D5A8A21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXO2", "..\EXO2\EXO2.csproj", "{4A8490C0-29E0-4ACC-A2CB-1314D4E285D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXO2", "..\EXO2\EXO2.csproj", "{4A8490C0-29E0-4ACC-A2CB-1314D4E285D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anneeBisextileOrNot", "..\anneeBisextileOrNot\anneeBisextileOrNot.csproj", "{63FF366F-E1DF-4C10-8289-656A6DCBFF7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anneeBisextileOrNot", "..\anneeBisextileOrNot\anneeBisextileOrNot.csproj", "{63FF366F-E1DF-4C10-8289-656A6DCBFF7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exoValeurAbsolue", "..\exoValeurAbsolue\exoValeurAbsolue.csproj", "{01D45C56-4E84-47D8-9D7D-7221F4EEC168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exoValeurAbsolue", "..\exoValeurAbsolue\exoValeurAbsolue.csproj", "{01D45C56-4E84-47D8-9D7D-7221F4EEC168}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{D795D036-BC9D-4D8E-8D9E-7C85C58856EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equationPremierDegre", "..\equationPremierDegre\equationPremierDegre.csproj", "{E19D0E18-1382-4433-BE14-3AD285229C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D795D036-BC9D-4D8E-8D9E-7C85C58856EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D795D036-BC9D-4D8E-8D9E-7C85C58856EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D795D036-BC9D-4D8E-8D9E-7C85C58856EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19D0E18-1382-4433-BE14-3AD285229C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19D0E18-1382-4433-BE14-3AD285229C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19D0E18-1382-4433-BE14-3AD285229C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19D0E18-1382-4433-BE14-3AD285229C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\bin\Debug\netcoreapp2.1\equationPremierDegre.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\bin\Debug\netcoreapp2.1\equationPremierDegre.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\bin\Debug\netcoreapp2.1\equationPremierDegre.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\bin\Debug\netcoreapp2.1\equationPremierDegre.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\bin\Debug\netcoreapp2.1\equationPremierDegre.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.genruntimeconfig.cache
