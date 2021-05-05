@@ -9,3 +9,4 @@ C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\net
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.dll
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.pdb
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\equationPremierDegre\obj\Debug\netcoreapp2.1\equationPremierDegre.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\bin\Debug\netcoreapp2.1\findDayOfWeek.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\bin\Debug\netcoreapp2.1\findDayOfWeek.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\bin\Debug\netcoreapp2.1\findDayOfWeek.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\bin\Debug\netcoreapp2.1\findDayOfWeek.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\bin\Debug\netcoreapp2.1\findDayOfWeek.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\findDayOfWeek\obj\Debug\netcoreapp2.1\findDayOfWeek.genruntimeconfig.cache
