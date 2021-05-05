@@ -17,8 +17,8 @@ namespace equationPremierDegre
 
         public static double Equation(double a, double b)
         {
-            if(a == 0)
-                throw new Exception("on ne peut pas diviser par zéro");
+            if(a == 0 && b != 0)
+                throw new Exception("équation impossible");
 
             if (a == 0 && b == 0)
                 throw new Exception("équation indéterminée");
