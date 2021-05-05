@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\bin\Debug\EXO2.1.exe.config
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\bin\Debug\EXO2.1.exe
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\bin\Debug\EXO2.1.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\obj\Debug\EXO2.1.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\obj\Debug\EXO2.1.exe
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\obj\Debug\EXO2.1.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2.1\obj\Debug\EXO2.1.csprojAssemblyReference.cache

@@ -42,7 +42,7 @@ namespace EXO2
                     listNombres.Add(b);
                     listNombres.Add(c);
 
-                    listNombres.Sort();
+                    Tri(listNombres);
 
                     return listNombres;
                 }
@@ -60,6 +60,27 @@ namespace EXO2
             }
 
 
+        }
+
+        public static List<double> Tri(List<double> liste)
+        {
+            bool changed;
+            do
+            {
+                changed = false;
+                for (var i = 0; i < liste.Count - 1; i++)
+                {
+                    if (liste[i] > liste[i + 1])
+                    {
+                        double tmp = liste[i];
+                        liste[i] = liste[i + 1];
+                        liste[i + 1] = tmp;
+                        changed = true;
+                    }
+                }
+            } while (changed);
+
+            return liste;
         }
     }
 }

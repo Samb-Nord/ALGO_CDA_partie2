@@ -9,3 +9,4 @@ C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netc
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.dll
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.pdb
 C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\anneeBisextileOrNot\obj\Debug\netcoreapp2.1\anneeBisextileOrNot.csprojAssemblyReference.cache

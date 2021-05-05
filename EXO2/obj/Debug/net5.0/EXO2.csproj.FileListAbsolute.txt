@@ -1,0 +1,16 @@
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.exe
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\ref\EXO2.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\bin\Debug\net5.0\EXO2.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\ref\EXO2.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA_partie2\EXO2\obj\Debug\net5.0\EXO2.genruntimeconfig.cache

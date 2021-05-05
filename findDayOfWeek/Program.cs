@@ -15,10 +15,11 @@ namespace findDayOfWeek
             Console.WriteLine("Entrez les deux derniers chiffres de l'année");
             Int32.TryParse(Console.ReadLine(), out int year);
 
+            FindDay(day, month, year);
 
         }
 
-        public static void findDay(string jour, string mois, int annee)
+        public static int FindDay(string jour, string mois, int annee)
         {
             //transformer l'année en 4 chiffres
             string yearString = "19" + annee;
@@ -29,8 +30,7 @@ namespace findDayOfWeek
                 throw new Exception("l'année doit être comprise entre 1901 et 1999 inclus");
             else
             {
-                double resultat = newYear/4;
-                int resultat4 = Convert.ToInt32(resultat);
+                int resultat4 = newYear%4;
                 int jourNumber;
                 int valeurMois;
                 jour = jour.ToLower();
@@ -113,8 +113,10 @@ namespace findDayOfWeek
                         throw new Exception("le mois ne corresponds pas à un mois de l'année");                       
                 }
 
-                double reste = (newYear + resultat4 + valeurMois + jourNumber)/7;
-                int reste7 = Convert.ToInt32(reste);
+                double reste = (newYear + resultat4 + valeurMois + jourNumber);
+                int reste7 = (Convert.ToInt32(reste))%7;
+
+                return reste7;
 
             }
 
